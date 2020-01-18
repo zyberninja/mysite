@@ -28,14 +28,17 @@ function App()
       */}
           <div class = "Background-image">
             <div class ="textinfo">
-                <h1 class2>Title</h1>
-                <h2 class2>Sub title</h2>
+                <h1 class2>My Ip Address:</h1>
+                <h2 class2>18.207.211.37</h2>
                 <p>
-                  xyz stuff
+                  More details just for fun
                   </p>
                   <ul>
-                    <li>test1</li>
-                    <li>test2</li>
+                    <li>Remote Port: 3000</li>
+                    <li>Request Metod:</li>
+                    <li>Server protocol:</li>
+                    <li>Server Host:</li>
+                    <li>user agent: </li>
                   </ul>
                   <p>footer</p>
               </div>
